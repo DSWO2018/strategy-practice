@@ -1,14 +1,16 @@
 package mx.iteso;
-
+/** {@package-info} */
 /**
  * Created by Alan on 9/13/18.
  * PlayStationApp
  *
  */
-public class App
-{
-    public static void main( String[] args )
-    {
+public final class App {
+    /**Constructor.*/
+    private App() { };
+    /**Funcion MAIN.
+     * @param args .*/
+    public static void main(final String[] args) {
         PlayStation4 ps = new PlayStation4();
         Disc music = new MusicDisc();
         Disc blueRay = new BlueRayDisc();
