@@ -1,12 +1,11 @@
 package mx.iteso.strategy.discs;
 
-
-import mx.iteso.strategy.calibration.calibration;
-import mx.iteso.strategy.calibration.impl.iPS4Games;
+import mx.iteso.strategy.calibration.impl.PS4GamesCalibration;
 import mx.iteso.strategy.Disc;
-
+/**PS4 Games class.*/
 public class PS4Games extends Disc {
-    public calibration setCalibration() {
-        return new iPS4Games();
+    /**Constructor.*/
+    public PS4Games() {
+        cal = new PS4GamesCalibration();
     }
 }

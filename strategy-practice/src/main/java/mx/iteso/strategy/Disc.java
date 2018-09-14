@@ -1,9 +1,14 @@
 package mx.iteso.strategy;
 
-import mx.iteso.strategy.calibration.calibration;
+import mx.iteso.strategy.calibration.iCalibration;
 
+/**Disc abstract class.*/
 public abstract class Disc {
-    public abstract calibration setCalibration();
+    /**variable tipo calibration.*/
+    public iCalibration cal;
+    /**método constructor.*/
+    public Disc() {
 
+    }
 
 }

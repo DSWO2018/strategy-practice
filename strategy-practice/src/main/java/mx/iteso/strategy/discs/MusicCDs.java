@@ -1,11 +1,11 @@
 package mx.iteso.strategy.discs;
 
-import mx.iteso.strategy.calibration.calibration;
-import mx.iteso.strategy.calibration.impl.iMusicCDs;
 import mx.iteso.strategy.Disc;
-
+import mx.iteso.strategy.calibration.impl.MusicCDsCalibration;
+/**Music CDs class.*/
 public class MusicCDs extends Disc {
-    public calibration setCalibration() {
-        return new iMusicCDs();
+    /**Constructor.*/
+    public MusicCDs() {
+        cal = new MusicCDsCalibration();
     }
 }
