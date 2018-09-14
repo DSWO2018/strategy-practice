@@ -12,11 +12,106 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Disc.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/Disc.java">
+      <file leaf-file-name="Bluray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/Bluray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataDiscs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DataDiscs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DVD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DVD.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicCDs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/MusicCDs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PS4Games.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/PS4Games.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayStation4Module.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/PlayStation4Module.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICalibration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/ICalibration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlurayCalibration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/BlurayCalibration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              <folding>
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/discs/ext/aDVD.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/discs/ext/Bluray.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/discs/ext/MusicCDs.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/discs/ext/PS4Games.java" />
@@ -50,23 +144,12 @@
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/discs/ext/DataDiscs.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/com/Disc.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/consoles/PlayStation4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/BlurayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/calibration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DataDiscsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DVDTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/MusicCDsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/PS4GamesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/PlayStation4Module.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/iBluray.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/iDataDiscs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/Disc.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/iDVD.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/iMusicCDs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DVD.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/iPS4Games.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DataDiscs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/PS4Games.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/MusicCDs.java" />
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/calibration/impl/iBlurayTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/calibration/impl/iDataDiscsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/calibration/impl/DataDiscsCalibrationTest.java" />
@@ -77,21 +160,33 @@
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/calibration/impl/MusicCDsCalibrationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/calibration/impl/iPS4GamesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/calibration/impl/PS4GamesCalibrationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/Bluray.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/package-info.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/PS4GamesCalibration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/BlurayCalibration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DvdCalibration.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/package-info.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/MusicCDsCalibration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DataDiscsCalibration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/Bluray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DVD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/PS4Games.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/MusicCDs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DataDiscs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/PS4GamesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/MusicCDsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/BlurayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DataDiscsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DVDTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/iCalibration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/BlurayCalibration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DataDiscsCalibration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/MusicCDsCalibration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DvdCalibration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/PS4GamesCalibration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/strategy/Disc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/iteso/PlayStation4Module.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -140,46 +235,6 @@
               <item name="strategy-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="strategy-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iteso" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="strategy-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iteso" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
-              <item name="calibration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="strategy-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iteso" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
-              <item name="calibration" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="strategy-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iteso" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
-              <item name="discs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="strategy-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -188,17 +243,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="strategy-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="strategy-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strategy-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,18 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in strategy-practice">
-    <configuration name="PlayStation4Module" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mx.iteso.PlayStation4Module" />
-      <module name="strategy-practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mx.iteso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.mx.iteso.strategy in strategy-practice">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -298,6 +331,29 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="mx.iteso.strategy in strategy-practice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strategy-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mx.iteso.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="mx.iteso.strategy" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -376,19 +432,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PlayStation4Module" />
       <item itemvalue="JUnit.BlurayTest" />
       <item itemvalue="JUnit.mx.iteso.strategy.discs in strategy-practice" />
       <item itemvalue="JUnit.mx.iteso.strategy.calibration.impl in strategy-practice" />
       <item itemvalue="JUnit.All in strategy-practice" />
+      <item itemvalue="JUnit.mx.iteso.strategy in strategy-practice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.mx.iteso.strategy in strategy-practice" />
         <item itemvalue="JUnit.All in strategy-practice" />
         <item itemvalue="JUnit.mx.iteso.strategy.calibration.impl in strategy-practice" />
         <item itemvalue="JUnit.mx.iteso.strategy.discs in strategy-practice" />
         <item itemvalue="JUnit.BlurayTest" />
-        <item itemvalue="Application.PlayStation4Module" />
       </list>
     </recent_temporary>
   </component>
@@ -406,50 +462,70 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BlurayTest - 2018.09.13 at 12h 12m 19s.xml">
-      <configuration name="BlurayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BlurayTest - 2018.09.13 at 12h 53m 35s.xml">
-      <configuration name="BlurayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="mx_iteso_strategy_discs_in_strategy-practice - 2018.09.13 at 13h 03m 22s.xml">
-      <configuration name="mx.iteso.strategy.discs in strategy-practice" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="mx_iteso_strategy_calibration_impl_in_strategy-practice - 2018.09.13 at 13h 21m 40s.xml">
-      <configuration name="mx.iteso.strategy.calibration.impl in strategy-practice" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_strategy-practice - 2018.09.13 at 13h 21m 51s.xml">
       <configuration name="All in strategy-practice" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_strategy-practice - 2018.09.13 at 19h 51m 05s.xml">
       <configuration name="All in strategy-practice" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_strategy-practice - 2018.09.14 at 07h 54m 42s.xml">
+      <configuration name="All in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_strategy-practice - 2018.09.14 at 07h 59m 30s.xml">
+      <configuration name="All in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_strategy-practice - 2018.09.14 at 08h 00m 55s.xml">
+      <configuration name="All in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_strategy-practice - 2018.09.14 at 08h 06m 35s.xml">
+      <configuration name="All in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_strategy-practice - 2018.09.14 at 08h 06m 58s.xml">
+      <configuration name="All in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_strategy-practice - 2018.09.14 at 08h 08m 43s.xml">
+      <configuration name="All in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_strategy-practice - 2018.09.14 at 08h 09m 10s.xml">
+      <configuration name="All in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="mx_iteso_strategy_in_strategy-practice - 2018.09.14 at 08h 10m 16s.xml">
+      <configuration name="mx.iteso.strategy in strategy-practice" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49016643" weight="0.32838285" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49016643" weight="0.32013202" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5015129" side_tool="true" weight="0.32838285" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.7246596" visible="true" weight="0.32343236" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.7246596" weight="0.32673267" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32838285" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25567323" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23903178" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49848714" weight="0.32838285" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39933994" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
@@ -490,7 +566,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -501,64 +577,6 @@
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DVD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DataDiscs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/MusicCDs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/PS4Games.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/PlayStation4Module.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -607,60 +625,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/BlurayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DataDiscsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DVDTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/MusicCDsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-85">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/PS4GamesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,52 +653,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/BlurayCalibration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DvdCalibration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/MusicCDsCalibration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DataDiscsCalibration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/iCalibration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/PS4GamesCalibration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -741,20 +667,187 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/Bluray.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/PS4GamesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/MusicCDsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DataDiscsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/DVDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/strategy/discs/BlurayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DataDiscsCalibration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/MusicCDsCalibration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/DvdCalibration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/PS4GamesCalibration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/Disc.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/Bluray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DataDiscs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/DVD.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/MusicCDs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/discs/PS4Games.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/ICalibration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/strategy/calibration/impl/BlurayCalibration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/iteso/PlayStation4Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

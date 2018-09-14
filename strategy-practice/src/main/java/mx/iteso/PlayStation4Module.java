@@ -16,11 +16,11 @@ class PlayStation4Module {
         Disc musicCd = new MusicCDs();
         Disc ps4game = new PS4Games();
 
-        dvd.cal.play();
-        bluray.cal.play();
-        dataDisc.cal.play();
-        musicCd.cal.play();
-        ps4game.cal.play();
+        System.out.println(dvd.getCal().play());
+        System.out.println(bluray.getCal().play());
+        System.out.println(dataDisc.getCal().play());
+        System.out.println(musicCd.getCal().play());
+        System.out.println(ps4game.getCal().play());
 
     }
 }

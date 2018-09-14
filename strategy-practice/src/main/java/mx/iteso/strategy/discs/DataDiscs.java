@@ -6,6 +6,6 @@ import mx.iteso.strategy.Disc;
 public class DataDiscs extends Disc {
     /**Constructor. */
     public DataDiscs() {
-        cal = new DataDiscsCalibration();
+        setCal(new DataDiscsCalibration());
     }
 }

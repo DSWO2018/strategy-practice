@@ -5,6 +5,6 @@ import mx.iteso.strategy.Disc;
 public class DVD extends Disc {
     /**Constructor.*/
     public DVD() {
-        cal = new DvdCalibration();
+        setCal(new DvdCalibration());
     }
 }

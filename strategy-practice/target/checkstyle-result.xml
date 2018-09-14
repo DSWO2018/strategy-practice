@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.18">
-<file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\calibration\iCalibration.java">
-<error line="3" column="18" severity="error" message="El nombre &apos;iCalibration&apos; debe coincidir con el patrón &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\PlayStation4Module.java">
+</file>
+<file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\calibration\ICalibration.java">
+</file>
+<file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\calibration\impl\BlurayCalibration.java">
 </file>
 <file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\calibration\impl\DataDiscsCalibration.java">
 </file>
+<file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\calibration\impl\DvdCalibration.java">
+</file>
 <file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\calibration\impl\MusicCDsCalibration.java">
 </file>
+<file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\calibration\impl\PS4GamesCalibration.java">
+</file>
 <file name="C:\strategy-practice\strategy-practice\src\main\java\mx\iteso\strategy\Disc.java">
-<error line="8" column="25" severity="error" message="La variable &apos;cal&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
 </file>
 </checkstyle>

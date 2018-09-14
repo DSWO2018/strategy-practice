@@ -6,6 +6,6 @@ import mx.iteso.strategy.calibration.impl.MusicCDsCalibration;
 public class MusicCDs extends Disc {
     /**Constructor.*/
     public MusicCDs() {
-        cal = new MusicCDsCalibration();
+        setCal(new MusicCDsCalibration());
     }
 }

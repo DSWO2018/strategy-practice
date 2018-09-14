@@ -6,6 +6,6 @@ import mx.iteso.strategy.Disc;
 public class Bluray extends Disc {
     /**Herencia del constructor.*/
     public Bluray() {
-        cal = new BlurayCalibration();
+        setCal(new BlurayCalibration());
     }
 }

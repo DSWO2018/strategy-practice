@@ -6,6 +6,6 @@ import mx.iteso.strategy.Disc;
 public class PS4Games extends Disc {
     /**Constructor.*/
     public PS4Games() {
-        cal = new PS4GamesCalibration();
+        setCal(new PS4GamesCalibration());
     }
 }

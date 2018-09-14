@@ -8,7 +8,7 @@ public class DataDiscsTest {
     @Test
     public void testDataDisc(){
         DataDiscs dd = new DataDiscs();
-        assertEquals("Calibrating with Data Discs", dd.cal.play());
+        assertEquals("Calibrating with Data Discs", dd.getCal().play());
     }
 
 }
