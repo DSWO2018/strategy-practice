@@ -23,24 +23,18 @@ public abstract class Disco {
     private String type;
 
     /**
-     * Constructor.
-     */
-    public Disco() {
-    }
-
-    /**
      * Metodo diferente en cada disco.
      *
-     * @return regresa las calibraciones
+     * @return regresa las calibraciones.
      */
-    public String calibracion() {
+    protected String calibracion() {
         return calibracion.calibrar();
     }
 
     /**
      * Simple get.
      *
-     * @return regresa el type
+     * @return regresa el type.
      */
     @Getter
      public String getType() {
@@ -57,12 +51,12 @@ public abstract class Disco {
     }
 
     /**
-     * Simple set
-     * @param xCalibracion sirve para modificar la calibracion
+     * Simple set.
+     * @param xCalibracion sirve para modificar la calibracion.
      * */
 
     @Setter
-    public void setCalibracion(final Calibracion xCalibracion){
+    public void setCalibracion(final Calibracion xCalibracion) {
         this.calibracion = xCalibracion;
     }
 }
