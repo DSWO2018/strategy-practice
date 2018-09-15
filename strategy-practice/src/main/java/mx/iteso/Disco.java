@@ -56,4 +56,13 @@ public abstract class Disco {
         this.type = xType;
     }
 
+    /**
+     * Simple set
+     * @param xCalibracion sirve para modificar la calibracion
+     * */
+
+    @Setter
+    public void setCalibracion(final Calibracion xCalibracion){
+        this.calibracion = xCalibracion;
+    }
 }

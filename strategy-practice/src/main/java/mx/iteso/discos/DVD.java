@@ -1,12 +1,10 @@
 package mx.iteso.discos;
 
 import mx.iteso.Disco;
-import mx.iteso.calibraciones.impl.CalDVD;
-
+/**DVD.*/
 public class DVD extends Disco {
-
-    public DVD(){
-       // setCalibration(new CalDVD());
+    /**Constructor.*/
+    public DVD() {
         calibracion();
         setType("DVD");
     }

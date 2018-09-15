@@ -1,10 +1,12 @@
 package mx.iteso.calibraciones.impl;
 
 import mx.iteso.calibraciones.Calibracion;
-
+/**Calibracion de DVD.*/
 public class CalDVD implements Calibracion {
-    public String calibrar()
-    {
+    /**Oveerride de calibrar.
+     * @return calibracion.
+     * */
+    public String calibrar() {
         return "Calibrando un DVD";
     }
 }

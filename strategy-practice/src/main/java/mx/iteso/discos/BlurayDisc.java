@@ -1,11 +1,10 @@
 package mx.iteso.discos;
 
 import mx.iteso.Disco;
-import mx.iteso.calibraciones.impl.CalBluray;
-
+/**Blu-ray.*/
 public class BlurayDisc extends Disco {
-
-    public BlurayDisc(){
+    /**Constructor.*/
+    public BlurayDisc() {
         calibracion();
         setType("Blu-ray Disk");
     }
