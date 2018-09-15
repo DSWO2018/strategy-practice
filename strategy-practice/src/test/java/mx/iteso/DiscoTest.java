@@ -25,11 +25,6 @@ public class DiscoTest {
 
     @Test
     public void testCalibraciones() {
-        mockedBluray.calibracion();
-        mockedDataDisc.calibracion();
-        mockedMusicCD.calibracion();
-        mockedDVD.calibracion();
-        mockedPS4Game.calibracion();
         when(mockedBluray.calibracion()).thenReturn("Calibrando un Blu-ray");
         when(mockedDataDisc.calibracion()).thenReturn("Calibrando un Disco de datos");
         when(mockedDVD.calibracion()).thenReturn("Calibrando un DVD");
