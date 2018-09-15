@@ -7,9 +7,10 @@ import mx.iteso.strategy.discs.DataDiscs;
 import mx.iteso.strategy.discs.MusicCDs;
 import mx.iteso.strategy.discs.PS4Games;
 /**Play Station class.*/
-class PlayStation4Module {
-    /**Main for class @param args .*/
-    private static void main(final String[] args) {
+public class PlayStation4Module {
+
+    /**Método para usar las demás clases.*/
+    public final void usePlayStation4Module() {
         Disc dvd = new DVD();
         Disc bluray = new Bluray();
         Disc dataDisc = new DataDiscs();

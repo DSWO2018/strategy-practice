@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018</copyright>
     <item>
-      <title>File: 8,
+      <title>File: 1,
              Errors: 0,
              Warnings: 0,
              Infos: 0
@@ -47,104 +47,6 @@ under the License.
                           <tr>
                 <td>
                   <a href="http://maven.apache.org/checkstyle.html#mx.iteso.PlayStation4Module.java">mx/iteso/PlayStation4Module.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#mx.iteso.strategy.calibration.impl.DvdCalibration.java">mx/iteso/strategy/calibration/impl/DvdCalibration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#mx.iteso.strategy.calibration.impl.BlurayCalibration.java">mx/iteso/strategy/calibration/impl/BlurayCalibration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#mx.iteso.strategy.calibration.impl.DataDiscsCalibration.java">mx/iteso/strategy/calibration/impl/DataDiscsCalibration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#mx.iteso.strategy.calibration.ICalibration.java">mx/iteso/strategy/calibration/ICalibration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#mx.iteso.strategy.calibration.impl.PS4GamesCalibration.java">mx/iteso/strategy/calibration/impl/PS4GamesCalibration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#mx.iteso.strategy.calibration.impl.MusicCDsCalibration.java">mx/iteso/strategy/calibration/impl/MusicCDsCalibration.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#mx.iteso.strategy.Disc.java">mx/iteso/strategy/Disc.java</a>
                 </td>
                 <td>
                   0

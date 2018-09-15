@@ -5,6 +5,6 @@ import mx.iteso.strategy.calibration.ICalibration;
 public class MusicCDsCalibration implements ICalibration {
     /**Herencia del método play. @return .*/
     public final String play() {
-        return ("Calibrating with Music CD's");
+        return "Calibrating with Music CD's";
     }
 }

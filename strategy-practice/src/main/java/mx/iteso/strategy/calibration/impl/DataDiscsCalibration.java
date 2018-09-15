@@ -5,6 +5,6 @@ import mx.iteso.strategy.calibration.ICalibration;
 public class DataDiscsCalibration implements ICalibration {
     /**Herencia del método play. @return . */
     public final String play() {
-        return ("Calibrating with Data Discs");
+        return "Calibrating with Data Discs";
     }
 }
