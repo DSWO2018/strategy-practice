@@ -6,7 +6,7 @@ import mx.iteso.calibraciones.impl.CalBluray;
 public class BlurayDisc extends Disco {
 
     public BlurayDisc(){
-        calibracion = new CalBluray();
-        type = "Blu-ray Disc";
+        calibracion();
+        setType("Blu-ray Disk");
     }
 }

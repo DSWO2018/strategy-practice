@@ -1,9 +1,9 @@
 package mx.iteso.calibraciones.impl;
 
-import mx.iteso.calibraciones.calibracion;
+import mx.iteso.calibraciones.Calibracion;
 
-public class CalBluray implements calibracion {
+public class CalBluray implements Calibracion {
     public String calibrar() {
-        return "Calibrando un Blueray";
+        return "Calibrando un Bluray";
     }
 }
