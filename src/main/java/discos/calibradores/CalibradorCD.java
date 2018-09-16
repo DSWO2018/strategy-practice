@@ -1,9 +1,9 @@
 package discos.calibradores;
 /** clase. */
-public class CalibradorBlueRay implements Calibrador {
+public class CalibradorCD implements Calibrador {
     /** metodo.
      * @return mensaje de calibración */
     public final String calibrate() {
-        return "Blue Ray calibrado\n";
+        return "CD calibrado\n";
     }
 }

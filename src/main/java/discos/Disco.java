@@ -7,13 +7,13 @@ public abstract class Disco {
 
     /** metodo.
      * @param cali  */
-    public void setCalibrator(final Calibrador cali) {
+    public final void setCalibrator(final Calibrador cali) {
         this.calibrador = cali;
     }
 
     /** metodo.
      * @return mensaje de calibracion */
-    public String calibrate() {
+    public final String calibrate() {
         return this.calibrador.calibrate();
     }
 

@@ -1,18 +1,20 @@
+import discos.DVD;
+import discos.MusicCD;
 import discos.PlayStation4Disc;
 import org.junit.Test;
 import org.junit.Before;
 import static org.junit.Assert.*;
 
-public class PlayStation4DiscTest {
-    PlayStation4Disc d;
+public class DVDTest {
+    DVD d;
 
     @Before
     public void setUp(){
-        d = new PlayStation4Disc();
+        d = new DVD();
     }
 
     @Test
     public void run(){
-        assertEquals("Blue Ray calibrado\nDisfruta de tu juego",d.run());
+        assertEquals("DVD calibrado\nDisfruta de tu DVD",d.run());
     }
 }
