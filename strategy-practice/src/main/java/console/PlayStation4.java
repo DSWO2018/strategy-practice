@@ -1,7 +1,7 @@
 package console;
 
-import Discs.Disc;
-import calibration.Calibrate;
+import discs.Disc;
+import calibrating.Calibrate;
 
 /**
  * Created by Palaf on 13/09/2018.
@@ -17,8 +17,9 @@ public class PlayStation4 {
         this.calibrator = calibrator;
     }
 
-    public void ReadDisk(Disc disc){
+    public String ReadDisk(Disc disc){
         setCalibrator(disc.setCalibrate());
+        return calibrator.calibrating();
     }
 
 }
