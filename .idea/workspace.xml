@@ -1,80 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="548bfb25-9f27-4ab1-8b1f-c7e26710b2a5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/iDeflateBehavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy2/lifesavers/ArmBands.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy2/lifesavers/SwimSeat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy2/Lifesaver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/DeflatableTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/NotDeflatableTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/NormalBounceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/balls/AmericanFootballBallTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/balls/BaseballBallTest.java" afterPath="" />
+    <list default="true" id="753a856a-cf61-49b6-a64e-21be5143cc7e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/JamaiconSportsBallModule.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/JamaiconSportsLifesaversModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/balls/SoccerBallTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/IrregularBounceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/impl/NormalIBounce.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/CrashTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy2/lifesavers/SwimRing.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy/Ball.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/iBounceBehavior.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/iDeflateBehavior.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/AmericanFootballBall.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/CrashTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/Ball.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/Disc.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/MusicCalib.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/impl/IrregularIBounce.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/Music.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/SoccerBall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/DVD.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/iteso/strategy/cds/MusicCD.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/BaseballBall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/impl/NotDeflatable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/Bluray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/impl/BlurayCalib.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/iCalibrate.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PS4Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/impl/Deflatable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/GameCD.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/impl/DataCD.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/cds/DataCD.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PS4CdModule.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl/PS4Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iteso/strategy/behaviors/impl/PS4CdModule.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -156,21 +105,6 @@
         </subPane>
       </pane>
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/iteso/strategy/behaviors/impl" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.iteso.strategy.behaviors.impl" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.iteso.strategy.cds" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.iteso.strategy.behaviors.impl" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -272,11 +206,10 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="548bfb25-9f27-4ab1-8b1f-c7e26710b2a5" name="Default" comment="" />
-      <created>1537150816751</created>
+      <created>1537154891234</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537150816751</updated>
+      <updated>1537154891234</updated>
     </task>
     <servers />
   </component>
