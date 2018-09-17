@@ -1,11 +1,24 @@
+/**
+ * Paquete de trabajo para implemetación de calibradores.
+ *
+ * @author Luis Fernando Palafox.
+ * @version 1.1
+ * @since 1.0
+ */
 package calibrating.imp;
+
 import calibrating.Calibrate;
 
 /**
- * Created by Palaf on 13/09/2018.
+ * Clase para calibrar juegos de play 4.
  */
 public class Ps4GameCalibrator implements Calibrate {
-    public String calibrating() {
+    /**
+     * Calibra un dico de playstation 4.
+     *
+     * @return retorna la calibracion.
+     */
+    public final String calibrating() {
         return "I'm calibrating a ps4 game";
 
     }

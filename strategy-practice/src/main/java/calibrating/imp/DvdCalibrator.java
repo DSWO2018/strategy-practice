@@ -1,11 +1,24 @@
+/**
+ * Paquete de trabajo para implemetación de calibradores.
+ *
+ * @author Luis Fernando Palafox.
+ * @version 1.1
+ * @since 1.0
+ */
 package calibrating.imp;
+
 import calibrating.Calibrate;
 
 /**
- * Created by Palaf on 13/09/2018.
+ * Clase para calibrar Dvd.
  */
 public class DvdCalibrator implements Calibrate {
-    public String calibrating(){
-        return "I'm calibrating a Dvddisc";
+    /**
+     * Calibra un dico bluray.
+     *
+     * @return retorna la calibracion.
+     */
+    public final String calibrating() {
+        return "I'm calibrating a Dvd disc";
     }
 }

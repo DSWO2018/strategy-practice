@@ -22,6 +22,6 @@ public class Ps4GameCalibratorTest {
 
     @Test
     public void testCalibrating() {
-        assertEquals("I'm calibrating a ps4 game", playStation4.ReadDisk(ps4Disc));
+        assertEquals("I'm calibrating a ps4 game", playStation4.readDisc(ps4Disc));
     }
 }

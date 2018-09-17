@@ -22,6 +22,6 @@ public class DvdCalibratorTest {
 
     @Test
     public void testCalibrating() {
-        assertEquals("I'm calibrating a Dvddisc", playStation4.ReadDisk(dvdDisc));
+        assertEquals("I'm calibrating a Dvddisc", playStation4.readDisc(dvdDisc));
     }
 }

@@ -22,6 +22,6 @@ public class DataCalibratorTest {
 
     @Test
     public void testCalibrating() {
-        assertEquals("I'm calibrating a blyray disc", playStation4.ReadDisk(dataDisc));
+        assertEquals("I'm calibrating a blyray disc", playStation4.readDisc(dataDisc));
     }
 }

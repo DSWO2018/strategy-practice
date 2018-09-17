@@ -1,12 +1,25 @@
+/**
+ * Paquete de trabajo para implemetación de calibradores.
+ *
+ * @author Luis Fernando Palafox.
+ * @version 1.1
+ * @since 1.0
+ */
+
 package calibrating.imp;
 
 import calibrating.Calibrate;
 
 /**
- * Created by Palaf on 13/09/2018.
+ * Clase para calibrar cd.
  */
 public class CdCalibrator implements Calibrate {
-    public String calibrating() {
-        return  "I'm calibrating music cd";
+    /**
+     * Calibra un dico cd.
+     *
+     * @return retorna la calibracion.
+     */
+    public final String calibrating() {
+        return "I'm calibrating music cd";
     }
 }

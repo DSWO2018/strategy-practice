@@ -22,6 +22,6 @@ public class BlurayCalibratorTest {
 
     @Test
     public void testCalibrating() {
-        assertEquals("I'm calibrating a bluyray disc",playStation4.ReadDisk(blurayDisc));
+        assertEquals("I'm calibrating a bluyray disc",playStation4.readDisc(blurayDisc));
     }
 }

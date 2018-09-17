@@ -23,6 +23,6 @@ public class CdCalibratorTest {
 
     @Test
     public void testCalibrating() {
-        assertEquals("I'm calibrating music cd",playStation4.ReadDisk(cdDisc));
+        assertEquals("I'm calibrating music cd",playStation4.readDisc(cdDisc));
     }
 }
